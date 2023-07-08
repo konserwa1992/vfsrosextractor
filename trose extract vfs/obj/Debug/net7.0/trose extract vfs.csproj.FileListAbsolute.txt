@@ -1,0 +1,15 @@
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.csproj.AssemblyReference.cache
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.AssemblyInfoInputs.cache
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.AssemblyInfo.cs
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\bin\Debug\net7.0\trose extract vfs.exe
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\bin\Debug\net7.0\trose extract vfs.deps.json
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\bin\Debug\net7.0\trose extract vfs.runtimeconfig.json
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\bin\Debug\net7.0\trose extract vfs.dll
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\bin\Debug\net7.0\trose extract vfs.pdb
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.dll
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\refint\trose extract vfs.dll
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.pdb
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\trose extract vfs.genruntimeconfig.cache
+C:\Users\grzeg\source\repos\trose extract vfs\trose extract vfs\obj\Debug\net7.0\ref\trose extract vfs.dll
