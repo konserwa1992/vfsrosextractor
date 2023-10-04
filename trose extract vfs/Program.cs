@@ -32,7 +32,7 @@ while (!dataStructureStream.EndOfStream)
     chunkInfo fileInfo = new chunkInfo();
 
    if(moveOffset==1)
-   moveOffset= (int)dataStructureStream.BaseStream.Seek(34, SeekOrigin.Begin);
+   moveOffset= (int)dataStructureStream.BaseStream.Seek(0x231d65, SeekOrigin.Begin);
     dataStructureStream.BaseStream.Read(buffer, 0, 2);
     ushort filePathTextSize = BitConverter.ToUInt16(buffer,0);
     fileInfo.fileNameLength = filePathTextSize;
